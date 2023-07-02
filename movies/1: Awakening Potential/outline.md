@@ -2,7 +2,7 @@
 
 ## Act 1: Opening Minds
 
-    Introduce the main characters: Emma, Yakut, Hiroku, and Einar.
+    Introduce the main characters: Emma, Yakut, Aaron, Miguel, Hiroku and Einar.
     Emma and Yakut begin their vocational education journey, attending lectures and workshops.
     They discover a shared interest in AI (Artificial Intelligence) and its potential to create positive change in the world.
     Hiroku, their mentor, introduces them to the concept of using AI to amplify their impact and inspire global transformation.
